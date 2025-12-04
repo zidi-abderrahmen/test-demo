@@ -1,0 +1,31 @@
+[33mcommit f44857f77f66aa8ee03693ec5ad6c88ac98bd082[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfix-typo[m[33m)[m
+Author: Ayoub Gharbi <gharbiayoub120@gmail.com>
+Date:   Thu Dec 4 01:50:07 2025 +0100
+
+    Fix error in README.md
+
+[33mcommit 826e5b524f71a0f51366949bca5d2162231866bf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Zidi Abderrahmen <rhoumazaza@gmail.com>
+Date:   Thu Dec 4 01:32:43 2025 +0100
+
+    Add Error
+
+[33mcommit d88c22bf0af8e7aeb9b9c0daa6ef76c44e5c282d[m
+Author: Zidi Abderrahmen <rhoumazaza@gmail.com>
+Date:   Thu Dec 4 01:22:31 2025 +0100
+
+    Add new line from local repo to README.md
+
+[33mcommit 9b7dbc9b5e78568e217a6b3ac0dba90fd6193ccb[m
+Author: Zidi Abderrahmen <zd.abderrahmen@gmail.com>
+Date:   Thu Dec 4 00:58:39 2025 +0100
+
+    Update README.md
+    
+    Add line to README.md from WebGUI
+
+[33mcommit 970f3c3327c0a5356d66fc0a9b32e6ab44bd4e29[m
+Author: Zidi Abderrahmen <zd.abderrahmen@gmail.com>
+Date:   Thu Dec 4 00:56:58 2025 +0100
+
+    Initial commit
